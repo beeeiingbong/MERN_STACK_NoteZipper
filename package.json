@@ -1,0 +1,16 @@
+{
+  "name": "mern_stack",
+  "version": "1.0.0",
+  "description": "MERN STACK NOTEZIPPER",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon backend/server.js"
+  },
+  "author": "Anik",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.2",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.20"
+  }
+}
